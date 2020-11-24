@@ -13,7 +13,7 @@ while row_index < array.length do
     element_index += 1 
   end
   row_index += 1
-  
+end 
   p array
 
   
